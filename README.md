@@ -1,8 +1,8 @@
 # Act6_FuncionesV2
 Funciones de suma, resta, multiplicación y división
 - Código
-- ![image](https://github.com/user-attachments/assets/7faf6e1d-6694-4ba4-9c65-fa12d9f642df)
+- ![image](https://github.com/user-attachments/assets/ca82d73c-bfdd-412d-a7c8-a0935a19522b)
 
 - Resultado
-- ![image](https://github.com/user-attachments/assets/029d091d-45f2-4b58-8fcd-ee8cf2f8f38d)
+- ![image](https://github.com/user-attachments/assets/74e6c9be-e8f7-4982-a485-bee4ba46116f)
 
